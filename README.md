@@ -1,2 +1,2 @@
-# SQL_Cutomer_Loyalty_program
-#Case study solutions for Danny's Dinner
+# SQL_Cutomer_Loyalty_Program
+#Case_study_solutions_for_Danny's_Dinner
