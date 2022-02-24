@@ -39,6 +39,9 @@ The menu table maps the product_id to the actual product_name and price of each 
 
 The final members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
 
+![image](https://user-images.githubusercontent.com/100192347/155502437-ec9e820b-0599-4f00-acd2-3d54a385d412.png)
+
+
 **Datasets**
 
 https://docs.google.com/spreadsheets/d/1tGboxKYvNTiMrAeucUKodgHx3NF83YnS5aLCo62mlbM/edit?usp=sharing
